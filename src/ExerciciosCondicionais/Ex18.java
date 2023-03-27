@@ -1,5 +1,4 @@
-package ExercicioCondicionais;
-import java.util.Date;
+package ExerciciosCondicionais;
 import java.util.Scanner;
 import java.time.LocalDate;
 

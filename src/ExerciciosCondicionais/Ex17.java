@@ -1,4 +1,4 @@
-package ExercicioCondicionais;
+package ExerciciosCondicionais;
 
 import java.util.Scanner;
 
