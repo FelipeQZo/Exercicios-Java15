@@ -1,4 +1,4 @@
-package IntroducaoMetodos.dominio;
+package POO.IntroducaoMetodos.dominio.Calculadora;
 
 public class Calculadora2 {
     public int soma(int n1, int n2){

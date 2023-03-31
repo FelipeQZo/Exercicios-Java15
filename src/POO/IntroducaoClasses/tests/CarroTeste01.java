@@ -1,6 +1,6 @@
-package IntroducaoClasses.tests;
+package POO.IntroducaoClasses.tests;
 
-import IntroducaoClasses.dominio.Carro;
+import POO.IntroducaoClasses.dominio.Carro;
 
 import java.util.Scanner;
 

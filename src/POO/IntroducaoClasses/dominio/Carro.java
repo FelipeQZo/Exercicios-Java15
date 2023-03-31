@@ -1,4 +1,4 @@
-package IntroducaoClasses.dominio;
+package POO.IntroducaoClasses.dominio;
 
 /*Criação de da Classe carro, essa classe será inicializada no CarroTeste01*/
 public class Carro {
