@@ -1,0 +1,5 @@
+MODIFICADOR FINAL:
+
+Em variaveis primitivas: Faz com que elas não possam ser nunca alteradas (constantes)
+Em classes: Faz com que elas não possam ser extendidas (Herança)
+Em métodos: Faz com que eles não possam ser sobrescritos em classes filhas
